@@ -4,6 +4,6 @@ INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES
   ("Tabitha", 4, 'F', "brown", "sleepy", true),
   ("Sergeant Brown", 12, 'M', "brown", "solemn", true),
   ("Melissa", 3, 'F', "black", "happy", false),
-  ("Grinch", 15, 'M', "white", "happy", true),
+  ("Grinch", 15, 'M', "white", "mean", true),
   ("Wendy", 1, 'M', "brown", "happy", true),
   (NULL, 7, 'M', "brown", "murderous", true);
